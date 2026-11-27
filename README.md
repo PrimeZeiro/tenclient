@@ -3,27 +3,11 @@
 <img src=".github/media/RepoBanner.png" alt="Repository Banner" />
 
 # OneClient  |  OneLauncher
-The monorepo containing the code for OneLauncher, OneClient, and their core backend.
+The monorepo containing the code for TenLauncher, TenClient, and their core backend.
 
 OneClient is a Minecraft client featuring fully 100% open-source components, offering many packaged and pre-configured mods in one click.
 
 </div>
-
-## Installing
-
-You can install the latest release of OneClient from our website: [https://polyfrost.org/projects/oneclient](https://polyfrost.org/projects/oneclient)
-as well as our [GitHub releases](https://github.com/Polyfrost/OneLauncher/releases/latest).
-
-| Windows (x86_64) | macOS (Intel & Apple Silicon) | Linux (x86_64)                                          |
-|------------------|-------------------------------|---------------------------------------------------------|
-| Installer 🔄      | DMG 🔄                        | AppImage 🔄                                             |
-|                  | App Bundle 🔄                 | DEB                                                     |
-|                  |                               | RPM                                                     |
-|                  |                               | *[RPM (COPR)](https://copr.fedorainfracloud.org/coprs/polyfrost/OneClient/) 🔄 |
-|                  |                               | [AUR](https://aur.archlinux.org/packages/oneclient-bin)|
-|                  |                               | Flatpak|
-
-> 🔄 = Has support for autoupdating built-in
 
 <details>
 
@@ -36,7 +20,7 @@ cd Downloads
 ```
 2. You can then install the package: (change filename with the one you downloaded)
 ```
-flatpak install ./OneClient_2.11.0_linux_x86_64.flatpak 
+flatpak install ./TenClient_2.11.0_linux_x86_64.flatpak 
 ```
 </details>
 <details>
