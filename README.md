@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/media/RepoBanner.png" alt="Repository Banner" />
+<img src=".github/media/Rep.png" alt="Repository Banner" />
 
 # TenClient  |  TenLauncher
 The monorepo containing the code for TenLauncher, TenClient, and their core backend.
