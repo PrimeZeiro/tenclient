@@ -2,7 +2,7 @@
 
 <img src=".github/media/RepoBanner.png" alt="Repository Banner" />
 
-# OneClient  |  OneLauncher
+# TenClient  |  TenLauncher
 The monorepo containing the code for TenLauncher, TenClient, and their core backend.
 
 OneClient is a Minecraft client featuring fully 100% open-source components, offering many packaged and pre-configured mods in one click.
